@@ -13,3 +13,6 @@ elif len(data) == 2:
     res = name + "@" + com
     print(res)
 
+
+
+
