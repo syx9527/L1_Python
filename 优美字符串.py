@@ -7,5 +7,6 @@ for i in range(n):
         if temp[j] == temp[j + 1]:
             l += 1
     res.append(l)
+
 for i in res:
     print(i)
